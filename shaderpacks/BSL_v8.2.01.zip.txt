@@ -1,0 +1,7 @@
+#Sat Jul 08 19:28:11 EEST 2023
+shadowDistance=128.0
+WAVING_VINE=false
+ROUND_SUN_MOON=true
+shadowMapResolution=1024
+ANIMATION_SPEED=0.50
+WAVING_LEAF=false
